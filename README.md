@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshitSohaney
-- 👀 I’m interested in Software Engineering and Artificial Intelligence. I am passionate about music, and am looking to bridge music and engineering in my projects
+- 👀 I’m interested in Software Engineering and Artificial Intelligence
 - 🌱 I’m currently learning to build Machine Learning models for classification
 - 📫 How to reach me: harshit.sohaney@mail.utoronto.ca
 
