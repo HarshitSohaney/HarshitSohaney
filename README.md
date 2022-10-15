@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshitSohaney
 - 👀 I’m interested in Software Engineering and Artificial Intelligence
-- 🌱 I’m currently learning to build Machine Learning models for classification
+- 🌱 I’m currently pursuing a degree in Computer Engineering at the University of Toronto, with a minor in AI
 - 📫 How to reach me: harshit.sohaney@mail.utoronto.ca
 
 <!---
